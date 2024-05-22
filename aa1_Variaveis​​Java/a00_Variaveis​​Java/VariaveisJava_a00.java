@@ -1,4 +1,4 @@
-public class Variaveis​​Java {
+public class VariaveisJava_a00 {
 
 	public static void main(String[] args) {
 
